@@ -1,6 +1,6 @@
 <?php
 
-$host = "localhost"; // Hostname
+$host = "127.0.0.1"; // Change from 'localhost' to '127.0.0.1'
 $username = "root"; // Database username (default is "root" for XAMPP)
 $password = ""; // Database password (default is empty for XAMPP)
 
